@@ -1,0 +1,6 @@
+pandas
+transformers
+numpy
+docx2txt
+python-dotenv
+einops

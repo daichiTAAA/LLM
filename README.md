@@ -1,1 +1,1 @@
-# LLM
+# FaissとLLMを使用したQAシステム
